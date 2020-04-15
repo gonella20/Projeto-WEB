@@ -1,2 +1,2 @@
 # Projeto WEB
- Site criado por meio das aulas. 
+ Website feito pelos ensinamentos do curso de Desenvolvimento web completo pelo Udemy
